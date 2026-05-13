@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harshavr8
 - 👀 I’m interested in ... AI and ML.
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... anything and everything 
+- 🌱 I’m currently learning to develop AI Agents.
 - 📫 How to reach me ... harsha.reddy820@gmail.com
 
 <!---
